@@ -254,7 +254,7 @@ export default defineComponent({
             },
             {
               label: '电脑推荐表',
-              key: 'PCcommands',
+              key: 'laptopRecommendation',
               icon:renderIcon(DevicesPc)
             },
           ]
